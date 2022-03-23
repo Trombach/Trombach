@@ -9,7 +9,7 @@ I'm Luke, and I'm a computational chemist. I'm experienced with high-performance
 - ⚡ Fun fact: A triangulation of a sphere needs to contain exaclty 12 vertices of degree 5
 
 ---
-[Email](mailto:TrombachL@gmail.com?subject=[GitHub]) &#9679; [LinkedIn](https://www.linkedin.com/in/lukas-trombach/) &#9679; [Google Scholar](https://scholar.google.co.nz/citations?user=XixhlQ4AAAAJ&hl=en) &#9679; [Orcid](https://orcid.org/0000-0001-5316-9967)
+[Email](mailto:TrombachL@gmail.com?subject=[GitHub]) &#8226; [LinkedIn](https://www.linkedin.com/in/lukas-trombach/) &#8226; [Google Scholar](https://scholar.google.co.nz/citations?user=XixhlQ4AAAAJ&hl=en) &#8226; [Orcid](https://orcid.org/0000-0001-5316-9967)
 <!--
 **Trombach/Trombach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
