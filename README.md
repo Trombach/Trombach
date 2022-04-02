@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Luke, and I'm a computational chemist. I'm experienced with high-performance computing and tought myself how to code for my PhD. Somehow I ended up developing websites afterwards and now I'm trying to learn how these two very different things can be combined.
+I'm Luke, and I'm a computational chemist. I'm experienced with high-performance computing and taught myself how to code for my PhD. Somehow I ended up developing websites afterwards and now I'm trying to learn how these two fields can be combined.
 
 - 🔭 I’m currently working on the [ResearchHub](https://github.com/UoA-eResearch/hub-stack)
 - 🌱 I’m currently learning Rust, WebAssembly and WebGL
