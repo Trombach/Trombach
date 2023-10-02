@@ -5,7 +5,7 @@ I'm Luke, and I'm a computational chemist. I'm experienced with high-performance
 - 🔭 I’m currently working on my [Homepage](https://github.com/Trombach/homepage) (private for now)
 - 🌱 I’m currently learning Svelte and SvelteKit
 - 📫 How to reach me: [Send me an email](mailto:contact@lukastrombach.dev?subject=[GitHub])
-- ⚡ Fun fact: A triangulation of a sphere needs to contain exaclty 12 vertices of degree 5
+- ⚡ Fun fact: A triangulation of a sphere needs to contain exactly 12 vertices of degree 5
 
 ![Top Langs](https://exp.gh-stats.lukastrombach.dev/api/top-langs/?username=Trombach&layout=donut&private=true&theme=vue-dark&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER)
 
