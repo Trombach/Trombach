@@ -12,4 +12,4 @@ I'm Luke, and I'm a computational chemist. I'm experienced with high-performance
 [![My GitHub stats](https://gh-stats.lukastrombach.dev/api?username=Trombach&count_private=true&show_icons=true&theme=vue-dark&include_all_commits=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-[Email](mailto:contact@lukastrombach.dev?subject=[GitHub]) &#8226; [LinkedIn](https://www.linkedin.com/in/lukas-trombach/) &#8226; [Google Scholar](https://scholar.google.co.nz/citations?user=XixhlQ4AAAAJ&hl=en) &#8226; [Orcid](https://orcid.org/0000-0001-5316-9967)
+[Email](mailto:contact@lukastrombach.dev?subject=[GitHub]) &#8226; [Matrix](https://matrix.to/#/@lukets123:matrix.org)  &#8226; [LinkedIn](https://www.linkedin.com/in/lukas-trombach/) &#8226; [Google Scholar](https://scholar.google.co.nz/citations?user=XixhlQ4AAAAJ&hl=en) &#8226; [Orcid](https://orcid.org/0000-0001-5316-9967)
