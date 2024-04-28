@@ -6,8 +6,6 @@ I'm Luke, and I'm a computational chemist. I'm experienced with high-performance
 - 🌱 I’m currently learning Astro
 - 📫 How to reach me: [Send me an email](mailto:contact@lukastrombach.dev?subject=[GitHub])
 
-![Top Langs](https://gh-stats.lukastrombach.dev/api/top-langs/?username=Trombach&layout=donut&private=true&theme=vue-dark&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER)
-
 [![My GitHub stats](https://gh-stats.lukastrombach.dev/api?username=Trombach&count_private=true&show_icons=true&theme=vue-dark&include_all_commits=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
